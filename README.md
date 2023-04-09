@@ -33,7 +33,7 @@ The Dataset consists of following columns:
 
 **2. Python Libraries: Numpy, Pandas,Seaborn,Matplotlib**
 
-**3. Business Intelligence Tools: Excel, Tableau**
+**3. Business Intelligence Tools: Excel, Power Bi**
 
 ## Project Steps
 **Data Import & Data Cleaning**
@@ -42,6 +42,6 @@ The dataset was initially stored in a CSV file, and to ensure its cleanliness an
 
 Upon inspection, it was found that the dataset was complete, with no missing data or duplicate records. Additionally, there were no incorrect data types detected, meaning that the data was structured correctly and in the appropriate formats. Overall, the dataset was deemed to be clean and suitable for further analysis.
 
-**Data Importing in Tableau**
+**Data Importing in PowerBi**
 
-In Tableau, we have options to connect to our dataset via various options such as SQL Server, MYSQL, excel or CSV files. We have our clean data in a CSV file. We will import it in Tableau with the import data option and start working with it.
+In PowerBi, we have options to connect to our dataset via various options such as SQL Server, MYSQL, excel or CSV files. We have our clean data in a CSV file. We will import it in PowerBi with the import data option and start working with it.
